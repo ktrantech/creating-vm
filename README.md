@@ -19,38 +19,78 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Windows Server 2022
 - Windows 10 (21H2)
 
-<h2>High-Creating Virtual Machine Steps</h2>
+<h2>Configurating Virtual Machine Steps</h2>
 
-- Create a Windows 10 Virtual Machine (VM)
-- Create a Linux (Ubuntu) VM
+- Configure a Windows 10 Virtual Machine (VM)
+- Configure a Linux (Ubuntu) VM
 - Microsoft Remote Desktop Installation
 - Filter & Observe ICMP traffic
 - Configuring a Firewall [Network Security Group
-- Observe SSH Traffic
-- Observic DHCP Traffic
+- Filter & Observe SSH Traffic
+- Filter & Observic DHCP Traffic
 
-<h2>Deployment and Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h2>Step 1. Configure a Windows 10 Virtual Machine (VM)</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+https://github.com/user-attachments/assets/29b94f8a-b5f0-4962-833c-97ae4188ebe8
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+- Watch Instructional Video Above
+- Windows 10 Virtual Machine Install
+
+<h2>Step 2. Configure a Linux (Ubuntu) VM</h2>
+
+
+https://github.com/user-attachments/assets/f6c07709-2d35-43d4-b0d8-d1f1635e918f
+
+- Watch Instructional Video Above
+- Configure a Linux (Ubuntu) Virtual Machine
+
+
+<h2>Step 3. Microsoft Remote Desktop Installation</h2>
+
+https://github.com/user-attachments/assets/ffae9290-f343-4ad1-b0d9-e4e478187f34
+
+- Watch Instructional Video Above
+- Install Remote Desktop for (Mac)
+
+  
+<h2>Step 4. Filter & Observe ICMP traffic</h2>
+
+https://github.com/user-attachments/assets/9e42b964-b204-443a-b990-8658bcb3c081
+
+- Watch Instructional Video Above
+- Filter & Observe ICMP traffic in PowerShell
+
+<h2>Step 5. Configuring a Firewall [Network Security Group</h2>
+
+https://github.com/user-attachments/assets/971148e1-0322-47a5-975e-0cb2c7c5be3b
+
+- Watch Instructional Video Above
+- Filter & Observe ICMP traffic in PowerShell
+
+
+<h2>Step 6. Observe SSH Traffic</h2>
+
+
+https://github.com/user-attachments/assets/0ffd34c0-ece1-4ee4-9137-b3fee394c997
+
+- Watch Instructional Video Above
+- Filter & Observe SSH traffic in PowerShell
+
+
+<h2>Step 7. Filter & Observic DHCP Traffic</h2>
+
+
+https://github.com/user-attachments/assets/48dbfe24-36b8-4f2f-8a24-51ba2830cbee
+
+- Watch Instructional Video Above
+- Filter & Observe DHCP traffic in PowerShell
+
+
+
+
+
+
+
+  
+
